@@ -1,6 +1,6 @@
 import * as THREE from "three";
 import { RGBELoader } from "three-stdlib";
-import { gsap } from "gsap";
+import { gsap } from "../../../gsapSetup";
 
 const setLighting = (scene: THREE.Scene) => {
   const directionalLight = new THREE.DirectionalLight(0x5eead4, 0);
