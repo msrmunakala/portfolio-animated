@@ -5,34 +5,28 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Solid Starters",
-    category: "Low-Code Platform",
-    tools: "Angular, Next.js, NestJS, MongoDB",
+    title: "Talk Champ",
+    category: "UI/UX Designer",
+    tools: "Figma, React.js",
     image: "/images/Solidx.png",
   },
   {
-    title: "Radix",
-    category: "E-Commerce",
-    tools: "Angular, Next.js, NestJS, CMS",
+    title: "MSR Smart Mentor",
+    category: "AIML Engineer",
+    tools: "Python, Machine Learning",
     image: "/images/radix.png",
   },
   {
-    title: "Bond Cancellation",
-    category: "Import-Export Automation",
-    tools: "Angular, Next.js, NestJS, Workflows",
+    title: "Clones",
+    category: "Web Developer",
+    tools: "React.js, Next.js",
     image: "/images/bond.png",
   },
   {
-    title: "Sapphire",
-    category: "CRM Platform",
-    tools: "AngularJS, NestJS, PostgreSQL",
+    title: "Machine Failure Prediction",
+    category: "AIML Engineer",
+    tools: "Python, TensorFlow, Scikit-learn",
     image: "/images/sapphire.png",
-  },
-  {
-    title: "Mpro",
-    category: "Insurance Platform",
-    tools: "React.js, Node.js, Microservices",
-    image: "/images/Maxlife.png",
   },
 ];
 

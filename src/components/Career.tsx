@@ -15,43 +15,49 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
-              </div>
-              <h3>2020</h3>
-            </div>
-            <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
-              </div>
-              <h3>2021</h3>
-            </div>
-            <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Front-End Developer</h4>
+                <h5>Self-Employed</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Applying 2 years in web development and design, creating impactful solutions for top brands.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Freelance UI/UX Designer</h4>
+                <h5>Logique</h5>
+              </div>
+              <h3>2026</h3>
+            </div>
+            <p>
+              From wireframes to prototypes, ensuring every detail enhances the user experience while aligning with brand visions.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Creative Web Designer</h4>
+                <h5>Optimal</h5>
+              </div>
+              <h3>2025</h3>
+            </div>
+            <p>
+              Revolutizing design and tech with bold creativity and cutting-edge solutions.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Junior Web Developer</h4>
+                <h5>Waveline</h5>
+              </div>
+              <h3>2025</h3>
+            </div>
+            <p>
+              Started mission to craft responsive, high-performance websites.
             </p>
           </div>
         </div>
