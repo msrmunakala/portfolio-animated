@@ -146,6 +146,45 @@ const WhatIDo = () => {
               <div className="what-arrow"></div>
             </div>
           </div>
+          <div
+            className="what-content what-noTouch"
+            ref={(el) => setRef(el, 2)}
+          >
+            <div className="what-border1">
+              <svg height="100%">
+                <line
+                  x1="0"
+                  y1="100%"
+                  x2="100%"
+                  y2="100%"
+                  stroke="white"
+                  strokeWidth="2"
+                  strokeDasharray="6,6"
+                />
+              </svg>
+            </div>
+            <div className="what-corner"></div>
+            <div className="what-content-in">
+              <h3>AI & ML</h3>
+              <h4>Intelligent Solutions</h4>
+              <p>
+                Developing intelligent models and data-driven applications. From
+                predictive analytics to generative AI, I build smart systems.
+              </p>
+              <h5>Skillset & tools</h5>
+              <div className="what-content-flex">
+                <div className="what-tags">Python</div>
+                <div className="what-tags">TensorFlow</div>
+                <div className="what-tags">PyTorch</div>
+                <div className="what-tags">Scikit-Learn</div>
+                <div className="what-tags">NLP</div>
+                <div className="what-tags">Computer Vision</div>
+                <div className="what-tags">Pandas</div>
+                <div className="what-tags">LangChain</div>
+              </div>
+              <div className="what-arrow"></div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
