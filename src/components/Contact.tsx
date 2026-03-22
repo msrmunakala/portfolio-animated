@@ -14,8 +14,15 @@ const Contact = () => {
                 munakalamadhusudhanrao@gmail.com
               </a>
             </p>
+            <h4>Phone</h4>
+            <p>
+              <a href="tel:8500081797" data-cursor="disable">
+                +91 85000 81797
+              </a>
+            </p>
             <h4>Education</h4>
-            <p>BSc in Computer Science</p>
+            <p>B.Tech in CSE(AI&ML) - ANITS</p>
+
           </div>
           <div className="contact-box">
             <h4>Social</h4>
@@ -57,7 +64,7 @@ const Contact = () => {
               Designed and Developed <br /> by <span>Madhusudhan Rao</span>
             </h2>
             <h5>
-              <MdCopyright /> 2025
+              <MdCopyright /> 2026
             </h5>
           </div>
         </div>
